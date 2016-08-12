@@ -6,7 +6,7 @@
 
 const path = require('path');
 const express = require('express');
-const port = 3030;
+const port = process.env.PORT || 8080;
 
 // Setup server
 var app = express();
@@ -21,8 +21,6 @@ var server = require('http').createServer(app);
 
 
 require('./config/express')(app);
-require('./routes')(app);
-
 
 
 // Start server
