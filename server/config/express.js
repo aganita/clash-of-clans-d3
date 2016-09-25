@@ -2,7 +2,6 @@ const bodyParser = require('body-parser');
 const express = require('express');
 const morgan = require('morgan');
 const path = require('path');
-const jwt = require('jsonwebtoken');
 
 
 module.exports = function(app) {

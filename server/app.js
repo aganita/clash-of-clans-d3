@@ -6,12 +6,12 @@
 
 const path = require('path');
 const express = require('express');
-const port = process.env.PORT || 8080;
+const port = process.env.PORT || 3030;
 
 // Setup server
 var app = express();
 var server = require('http').createServer(app);
-//TODO later add chat implemented with sockets 
+//TODO add chat implemented with sockets 
 // var socketio = require('socket.io')(server, {
 //   serveClient: (config.env === 'production') ? false : true,
 //   path: '/socket.io-client'
