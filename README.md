@@ -27,14 +27,14 @@ $ npm install
 ```
 
 ### Create Clash of Clans API key
-- Get you <public IP>
+- Get you [public IP]
 ```shell
 $ wget http://ipinfo.io/ip -qO -
 ```
 - Register at https://developer.clashofclans.com/#/register
 - Login 
 - Go to https://developer.clashofclans.com/#/account 
-- Name your key, write short description, paste your <public IP>
+- Name your key, write short description, paste your [public IP]
 - Create Key
 - Copy the <generated token> 
 
