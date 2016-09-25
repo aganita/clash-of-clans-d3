@@ -1,5 +1,5 @@
 {
-  "name": "coc",
+  "name": "ninjabearfight",
   "version": "1.0.0",
   "description": "Clash Of Clasn API",
   "main": "./server/app.js",
