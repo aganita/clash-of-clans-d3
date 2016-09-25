@@ -36,13 +36,13 @@ $ wget http://ipinfo.io/ip -qO -
 - Go to https://developer.clashofclans.com/#/account 
 - Name your key, write short description, paste your [public IP]
 - Create Key
-- Copy the <generated token> 
+- Copy the [generated token] 
 
 ### Set up .env file with API URL and key
 ```shell
 $ touch .env
-$ echo export COC_KEY=<generated token> .env
-$ echo export COC_CLAN_ID_PATH=https://api.clashofclans.com/v1/clans/%23
+$ echo export COC_KEY=[generated token] >> .env
+$ echo export COC_CLAN_ID_PATH=https://api.clashofclans.com/v1/clans/%23 >> .env
 $ source .env
 ```
 ### Start the application
