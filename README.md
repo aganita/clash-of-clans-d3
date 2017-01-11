@@ -20,8 +20,8 @@ http://clash-of-clans-api.herokuapp.com/
 ### Get the source code
 Clone the repo and install node components in package.json
 ```shell
-$ git clone https://github.com/aganita/clash-of-clans-d3.git NinjaBearFight
-$ cd NinjaBearFight
+$ git clone https://github.com/aganita/clash-of-clans-d3.git my-clan
+$ cd my-clan
 $ npm install
 ```
 
