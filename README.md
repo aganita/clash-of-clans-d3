@@ -1,6 +1,6 @@
 # My Clash Of Clans - web app that fetches real-time clan stats
 
-## Deployed app (Heroku dyno)
+## Deployed app on Heroku dyno
 http://clash-of-clans-api.herokuapp.com/
 
 ## Stack
