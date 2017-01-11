@@ -1,4 +1,4 @@
-# My Clash Of Clans - web app that fetches real-time clan stats
+# My Clash Of Clans Stats - web app that fetches real-time clan stats
 
 ## Deployed app on Heroku dyno
 http://clash-of-clans-api.herokuapp.com/
@@ -20,8 +20,8 @@ http://clash-of-clans-api.herokuapp.com/
 ### Get the source code
 Clone the repo and install node components in package.json
 ```shell
-$ git clone https://github.com/aganita/clash-of-clans-d3.git my-clan
-$ cd my-clan
+$ git clone https://github.com/aganita/clash-of-clans-d3.git my-clan-stats
+$ cd my-clan-stats
 $ npm install
 ```
 
