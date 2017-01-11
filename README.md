@@ -1,10 +1,7 @@
-# www.ninjabearfight.tk
-### Web APP to get NinjaBearFight's complete clan data using Clash of Clans API
+# My Clash Of Clans - web app that fetches real-time clan stats
 
-## Requirements
-- [Node.js](https://nodejs.org) `6.x` or newer
-- [npm](https://docs.npmjs.com/getting-started/installing-node) `3.8.6` or newer
-- [Clash of Clans Development Account](https://developer.clashofclans.com) API key is needed to run the project on localhost
+## Deployed app (Heroku dyno)
+http://clash-of-clans-api.herokuapp.com/
 
 ## Stack
 - [Express.js](https://expressjs.com/) `4.14.0` to run the Node.js web application
@@ -14,10 +11,12 @@
 - [Moment.js](http://momentjs.com/) `2.15.0` to parse, validate, manipulate, and display dates in JavaScript
 - [Webpack](https://webpack.github.io/) `1.13.2` to take modules with dependencies and emits static assets representing those modules
 
-## Deployed project (Heroku dyno)
-www.ninjabearfight.tk
-
 ## For Developers
+### Requirements
+- [Node.js](https://nodejs.org) `6.x` or newer
+- [npm](https://docs.npmjs.com/getting-started/installing-node) `3.8.6` or newer
+- [Clash of Clans Development Account](https://developer.clashofclans.com) API key is needed to run the project on localhost
+
 ### Get the source code
 Clone the repo and install node components in package.json
 ```shell
